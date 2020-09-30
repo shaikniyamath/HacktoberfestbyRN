@@ -1,1 +1,9 @@
-Now please add your content Niyamath
+start learning python
+#Tutorial_6
+#comments
+"""
+Hi all this lesson
+is about comments
+"""
+#print statement
+# print("How are you","\n", "hello", "\t", end= "i am fine")
