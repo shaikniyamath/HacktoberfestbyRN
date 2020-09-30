@@ -1,3 +1,4 @@
+
 Now please add your content Niyamath
 #tutorial7
 #variable
@@ -30,3 +31,13 @@ if (child<age<old):
 else:
     print("enter a valid age")
 """
+
+start learning python
+#Tutorial_6
+#comments
+"""
+Hi all this lesson
+is about comments
+"""
+#print statement
+# print("How are you","\n", "hello
