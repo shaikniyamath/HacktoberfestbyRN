@@ -6,3 +6,10 @@ var2= 4
 var3= 36.8
 print (type(var1))
 print (var2 + var3)"""
+#tutorial7
+#variable
+"""var1= "hello"
+var2= 4
+var3= 36.8
+print (type(var1))
+print (var2 + var3)"""
