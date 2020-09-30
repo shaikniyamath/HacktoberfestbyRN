@@ -13,3 +13,20 @@ var2= 4
 var3= 36.8
 print (type(var1))
 print (var2 + var3)"""
+#QUIZ
+"""print("Hello welcome to driving school")
+print("what is your age?")
+age = int(input())
+actual_age= 18
+child= 7
+old= 100
+if (child<age<old):
+    if(age>actual_age):
+        print("yes you can")
+    elif age == actual_age:
+        print("come to rto")
+    else:
+        print("you cant")
+else:
+    print("enter a valid age")
+"""
